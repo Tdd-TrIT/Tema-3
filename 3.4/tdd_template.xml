@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><templates><template autoinsert="true" context="java" deleted="false" description="TDD Given-When-Then template" enabled="true" name="tdd">@Test
+void ${testName}() {
+	
+	// GIVEN
+
+	// WHEN
+
+	// THEN
+	fail("Not implemented yet");
+}</template></templates>
